@@ -1,0 +1,22 @@
+{
+  "name": "esm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "live-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexeyerpd/modules_esm.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexeyerpd/modules_esm/issues"
+  },
+  "homepage": "https://github.com/alexeyerpd/modules_esm#readme",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
